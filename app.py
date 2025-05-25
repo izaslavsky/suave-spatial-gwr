@@ -23,7 +23,7 @@ import branca.colormap as cm
 
 # ---- Ensure uploader import path ----
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-from . suave_uploader import upload_to_suave
+from suave_uploader import upload_to_suave
 
 # ---- Read query params from URL ----
 query_params = st.query_params
