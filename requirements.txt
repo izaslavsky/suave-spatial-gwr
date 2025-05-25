@@ -1,0 +1,14 @@
+streamlit==1.45.1
+pandas==2.2.3
+geopandas
+shapely
+matplotlib
+folium
+streamlit-folium
+requests==2.32.3
+urllib3==2.4.0
+mgwr
+libpysal
+esda
+branca
+python-dateutil==2.9.0.post0
